@@ -1,0 +1,26 @@
+{D:/Programs/ModelSim/modelsim_ase/win32aloem/Phase 2 Project/ALU.sv} {1 {vlog -work work -sv -stats=none {D:/Programs/ModelSim/modelsim_ase/win32aloem/Phase 2 Project/ALU.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LogicGates
+-- Compiling module fulladderM
+-- Compiling module fulladder4bit
+-- Compiling module Multiplier
+-- Compiling module FullAdder
+-- Compiling module FullAdderINC
+-- Compiling module Shifter
+-- Compiling module LogicGatesTopLevel
+-- Compiling module MultiplierTopLevel
+-- Compiling module AddSubtract
+-- Compiling module INC
+-- Compiling module ShifterTopLevel
+-- Compiling module mux2x1
+-- Compiling module mux4x1
+-- Compiling module mux8x1
+-- Compiling module ALU
+-- Compiling module ALUTopLevel
+-- Compiling module alu_testbench
+
+Top level modules:
+	MultiplierTopLevel
+	alu_testbench
+
+} {} {}}

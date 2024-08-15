@@ -1,0 +1,6 @@
+ALU.sv is the whole code (Code + TestVectors)
+alu_testvectors.tv is the file used in the testbench
+alu_testvectors.txt is the text file including all testvectors
+Phase 2 Code.mpf is the whole project
+
+Report is included. 
